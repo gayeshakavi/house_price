@@ -14,16 +14,6 @@ This project is a House Price Predictor that estimates house prices based on giv
 
 📈 Predicts house prices based on new inputs
 
-🔧 Requirements
-
-Ensure you have the following installed:
-
-🐍 Python
-
-📓 Jupyter Notebook
-
-📦 Required libraries (install using pip install -r requirements.txt)
-
 🚀 How to Use
 
 Open the Jupyter Notebook (House_price_predictor.ipynb).
