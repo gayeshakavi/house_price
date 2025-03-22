@@ -1,8 +1,6 @@
-🏡 House Price Predictor
+🏡Overview of House Price Predictor
 
-📌 Overview
-
-This project is a House Price Predictor that estimates house prices based on given input features using a machine learning model.
+📌 This project is a House Price Predictor that estimates house prices based on given input features using a machine learning model.
 
 🌟 Features
 
