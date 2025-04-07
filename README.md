@@ -1,33 +1,33 @@
-🏡Overview of House Price Predictor
+🏡**Overview of House Price Predictor**
 
-📌 This project is a House Price Predictor that estimates house prices based on given input features using a machine learning model.
+  📌 This project is a House Price Predictor that estimates house prices based on given input features using a machine learning model.
 
-🌟 Features
+🌟 **Features**
 
-📂 Loads house price data
+  📂 Loads house price data
 
-🛠 Preprocesses and cleans data
+  🛠 Preprocesses and cleans data
 
-🤖 Trains a machine learning model
+  🤖 Trains a machine learning model
 
-📈 Predicts house prices based on new inputs
+  📈 Predicts house prices based on new inputs
 
-🚀 How to Use
+🚀 **How to Use**
 
-Open the Jupyter Notebook (House_price_predictor.ipynb).
+  Open the Jupyter Notebook (House_price_predictor.ipynb).
 
-▶️ Run the notebook cells step by step.
+  ▶️ Run the notebook cells step by step.
 
-🏠 Input the required features for prediction.
+  🏠 Input the required features for prediction.
 
-🎯 View the predicted house price.
+  🎯 View the predicted house price.
 
-📦 Dependencies
+📦 **Dependencies**
 
-📊 Pandas
+  📊 Pandas
 
-🔢 NumPy
+  🔢 NumPy
 
-🤖 Scikit-learn
+  🤖 Scikit-learn
 
-📉 Matplotlib (optional, for visualization)
+  📉 Matplotlib (optional, for visualization)
