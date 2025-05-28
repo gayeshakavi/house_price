@@ -24,10 +24,4 @@
 
 📦 **Dependencies**
 
-  📊 Pandas
-
-  🔢 NumPy
-
-  🤖 Scikit-learn
-
-  📉 Matplotlib (optional, for visualization)
+  📊 Pandas   🔢 NumPy   🤖 Scikit-learn   📉 Matplotlib (optional, for visualization)
