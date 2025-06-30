@@ -11,16 +11,7 @@
   🤖 Trains a machine learning model
 
   📈 Predicts house prices based on new inputs
-
-🚀 **How to Use**
-
-  Open the Jupyter Notebook (House_price_predictor.ipynb).
-
-  ▶️ Run the notebook cells step by step.
-
-  🏠 Input the required features for prediction.
-
-  🎯 View the predicted house price.
+  
 
 📦 **Dependencies**
 
